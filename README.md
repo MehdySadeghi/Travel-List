@@ -15,11 +15,11 @@ Whether you're preparing for a weekend getaway or a long vacation, Travel List m
 ### Home Screen
 
 ```md
-![Travel List Home](./screenshots/home-desktop.png)
+![Travel List Home](screenshots/home-desktop.png)
 ```
 
 ```md
-![Travel List Home](./screenshots/mobile-version.png)
+![Travel List Home](screenshots/mobile-version.png)
 ```
 
 ### Packing Progress
